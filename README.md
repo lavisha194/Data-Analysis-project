@@ -1,6 +1,6 @@
-# Sales Performance Analysis & Visualization
+# Sales Performance Analysis 
 ## Project Overview
-This project presents an end-to-end data analysis of transactional sales data aimed at deriving actionable business insights. Using SQL for data extraction and transformation, and Power BI for visualization, the project explores revenue patterns, product performance, and customer purchasing behavior to support strategic decision-making.
+This project presents an end-to-end data analysis of transactional sales data aimed at deriving actionable business insights. Using SQL for data extraction and transformation the project explores revenue patterns, product performance, and customer purchasing behavior to support strategic decision-making.
 # Business Objectives
 -- Evaluate overall sales performance and revenue trends
 
@@ -10,11 +10,9 @@ This project presents an end-to-end data analysis of transactional sales data ai
 
 -- Assess category-wise contribution to total revenue
 
--- Develop an interactive dashboard for data-driven insights
 # Technology Stack
 *MySQL – Data extraction, transformation, and querying
 
-*Power BI – Interactive dashboard development
 # Analytical Approach
 ## Time-Based Analysis
 Examined order volume and revenue distribution across different hours,
